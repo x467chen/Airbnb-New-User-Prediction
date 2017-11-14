@@ -15,13 +15,13 @@ Airbnb is nowadays becoming more and more popular around the world for traveller
 
 ## Challenge Solved
 
-1.Overfitting
-2.Imbalanced varibles
+1.Overfitting <br>
+2.Imbalanced varibles <br>
 
 
 ## Contributors
 
-The dataset we used is provided by Kaggle.com., which can be find in the following link: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+The dataset we used is provided by Kaggle.com, which can be find in the following link: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 
 
 
