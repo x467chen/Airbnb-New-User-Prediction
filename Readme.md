@@ -9,14 +9,14 @@ Airbnb is nowadays becoming more and more popular around the world for traveller
 
 ## Installation
 
-1. Install Anaconda-Navigator from：https://anaconda.org/anaconda/anaconda-navigator <br>
-2. Open it and use Jupter Notebook to launch it. <br>
+1.Install Anaconda-Navigator from：https://anaconda.org/anaconda/anaconda-navigator <br>
+2.Open it and use Jupter Notebook to launch it. <br>
 
 
 ## Challenge Solved
 
-1. Overfitting
-2. Imbalanced varibles
+1.Overfitting
+2.Imbalanced varibles
 
 
 ## Contributors
